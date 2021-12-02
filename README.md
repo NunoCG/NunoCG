@@ -1,5 +1,7 @@
 - 👋 Hey, My name is Nuno Guimarães
-- 👀 As of today i worked with: Java, javascript, CSS, HTML5, .Net Core 5 and PHP.
+- 👀 As of today i worked with: Java, javascript, CSS, HTML5, Git, Scrum, Trello and Jira.
+- 👀 I also learned and worked a little bit of Linux, windows server. 
+- 👀 And recently started learning vagrant, .Net Core 5 and PHP.
 - 🌱 I’m currently studying Software Engineering.
 - 💞️ I’m learning more and more everyday.
 - 📫 How to reach me? Well..
