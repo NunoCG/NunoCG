@@ -67,5 +67,5 @@
 
 <!-- Variables links -->
 [portfolio]: https://nunocg.github.io/portfolio/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/nuno-guimar%C3%A3es-51bb27163/
 [mailme]: mailto:nunoguimaraes10@hotmail.com
