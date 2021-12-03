@@ -1,9 +1,9 @@
 ### Hey, I'm Nuno
 
 
-## I'm a Software Engineering student!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## I'm a Software Engineering student!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
 
-- 🔭 I have a cool portfolio website that i just started working on: [Click me!][portfolio]!
+- 🔭 I have a cool portfolio website that i just started working on. [<img  width="20px" src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-websitebuilder-4263525_117861.png" />][portfolio]
 - 🌱 I’m currently learning everything 🤣 JK! But i'm learning a lot of stuff!
 - 👯 I’m looking to get better at programming everyday!
 - 🥅 2022 Goals: Learn more! Find a job or a internship program. Continuing studies! Travel with my girlfriend!
