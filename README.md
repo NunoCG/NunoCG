@@ -13,8 +13,8 @@
 
 ### 💬 Connect or contact me:
 
-[<img align="left" alt=" | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mailme]
+[<img align="left" alt=" | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="" width="28px" src="https://cdn-icons.flaticon.com/png/512/3471/premium/3471653.png?token=exp=1638567355~hmac=d71dba40e379369dd0c4423f7f5257dc" />][mailme]
 
 <br />
 <br />
