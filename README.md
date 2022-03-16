@@ -1,12 +1,17 @@
 ### Hey, I'm Nuno
 
 
-## I'm a Software Engineering student!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
+## I'm a Software Engineer intern @ Celfocus ! Also a student ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
 
-- 🔭 I have a cool portfolio website that i just started working on. [<img  width="20px" src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-websitebuilder-4263525_117861.png" />][portfolio]
-- 🌱 I’m currently learning everything 🤣 JK! But i'm learning a lot of stuff!
+- 🔭 I have a cool portfolio website that i started working on. [<img  width="20px" src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-websitebuilder-4263525_117861.png" />][portfolio]
+- 🌱 I’m currently working with microservices and learning automation and infrastructure.
 - 👯 I’m looking to get better at programming everyday!
-- 🥅 2022 Goals: Learn more! Find a job or a internship program. Continuing studies! Travel with my girlfriend!
+- 🥅 2022 Goals: 
+    - Learn more! ✔️ (Always learning)
+    - Get into an internship program. ✔️ 
+    - Get a job!
+    - Continuing studies! 
+    - Travel with my girlfriend!
 - ⚡ Fun fact: I love music, to play footbal and surf!
 
 <br />
@@ -49,7 +54,7 @@
 
 ### 📕 Interests
 
-- Software Engineering
+- Software Engineering, Cloud Computing, Automation and Infrastructure
 - Sports: Surf, Skate, Football
 - Gaming: CS:GO, COD, DbD
 - Cinema: Harry Potter, Lord Of The Rings, DC, Marvel
@@ -67,5 +72,5 @@
 
 <!-- Variables links -->
 [portfolio]: https://nunocg.github.io/portfolio/
-[linkedin]: https://www.linkedin.com/in/nuno-guimar%C3%A3es-51bb27163/
+[linkedin]: https://www.linkedin.com/in/nunocguimaraes/
 [mailme]: mailto:nunoguimaraes10@hotmail.com
