@@ -1,7 +1,7 @@
 ### Hey, I'm Nuno
 
 
-## I'm a Software Engineer intern @ Celfocus ! Also a student ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
+## I'm a DevOps Engineer Trainee @ SAP ! Also a student ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
 
 - 🔭 I have a cool portfolio website that i started working on. [<img  width="20px" src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-websitebuilder-4263525_117861.png" />][portfolio]
 - 🌱 I’m currently working with microservices and learning automation and infrastructure.
@@ -9,7 +9,8 @@
 - 🥅 2022 Goals: 
     - Learn more! ✔️ (Always learning)
     - Get into an internship program. ✔️ 
-    - Get a job!
+    - Get my first contract job! ✔️
+    - Get a job as a permanent employee! 
     - Continuing studies! 
     - Travel with my girlfriend!
 - ⚡ Fun fact: I love music, to play footbal and surf!
@@ -61,7 +62,7 @@
 - Sports: Surf, Skate, Football
 - Gaming: CS:GO, COD, DbD
 - Cinema: Harry Potter, Lord Of The Rings, DC, Marvel
-- Shows: Friends, GoT, CdP
+- Shows: Friends, GoT, CdP, Stranger Things
 - Animes: Alice in Borderland, Death Note
 - Music: R&B, Soul, Hip-Hop, Country, Rock
 - Nature: ALL!
