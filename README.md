@@ -10,8 +10,8 @@
     - Learn more! ✔️ (Always learning)
     - Get into an internship program. ✔️ 
     - Get my first contract job! ✔️
-    - Get a job as a permanent employee! 
-    - Continuing studies! 
+    - Get a job as a permanent employee! ✔️
+    - Continuing studies! ✔️
     - Travel with my girlfriend!
 - ⚡ Fun fact: I love music, to play footbal and surf!
 
