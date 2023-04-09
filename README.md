@@ -1,7 +1,7 @@
 ### Hey, I'm Nuno
 
 
-## I'm a DevOps Engineer Trainee @ SAP ! Also a student ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
+## I'm an Associate DevOps Engineer @ SAP ! Also a student ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" >
 
 - 🔭 I have a cool portfolio website that i started working on. [<img  width="20px" src="https://cdn.icon-icons.com/icons2/1858/PNG/512/iconfinder-websitebuilder-4263525_117861.png" />][portfolio]
 - 🌱 I’m currently working with microservices and learning automation and infrastructure.
