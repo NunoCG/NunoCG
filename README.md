@@ -15,7 +15,7 @@
     - Travel with my girlfriend! ✔️ -->
 - 🥅 2023 Goals:
     - Continuing studies! ✔️
-    - Learn Terraform!
+    - Learn Terraform! ✔️
     - Learn Prometheus and Grafana!
     - Learn ArgoCD!
     - Starting personal projects! And stay consistant!
